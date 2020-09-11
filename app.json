@@ -1,0 +1,11 @@
+{
+  "name": "AriaNg",
+  "description": "A web for torrenting",
+  "repository": "https://github.com/wahyd4/aria2-ariang-docker",
+  "formation": {
+    "web": {
+      "amount": 1,
+      "size": "M"
+    }
+  }
+}
